@@ -8,8 +8,8 @@
             <div class="login-card">
                 <div>
                     <div>
-                        <a class="logo" href="index.html"><img class="img-fluid"
-                                src="/assets/backend/images/logo/logo-login.png" alt="login"></a>
+                        <a class="logo" href="/"><img class="img-fluid" src="/assets/backend/images/logo/logo-login.png"
+                                alt="login"></a>
                     </div>
                     <div class="login-main">
                         <form class="theme-form">

@@ -26,13 +26,12 @@
         <!-- Start Tombol Autentikasi -->
         <ul class="auth-button list-inline mb-0">
             <li class="list-inline-item mb-0">
-                <a href="javascript:void(0)" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight"
-                    aria-controls="offcanvasRight">
+                <a href="/auth">
                     <div class="btn btn-primary">Masuk</div>
                 </a>
             </li>
             <li class="list-inline-item ps-1 mb-0">
-                <a href="javascript:void(0)" target="_blank">
+                <a href="/auth/daftar">
                     <div class="btn btn-outline-primary">Daftar</div>
                 </a>
             </li>
