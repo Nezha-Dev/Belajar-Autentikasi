@@ -24783,11 +24783,11 @@ footer {
 }
 
 .show-hide span.show:before {
-  content: "show"
+  content: "tampilkan"
 }
 
 .show-hide span:before {
-  content: "hide"
+  content: "sembunyikan"
 }
 
 .needs-validation .invalid-feedback {

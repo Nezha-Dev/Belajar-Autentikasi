@@ -31,7 +31,7 @@
                                 <div class="checkbox p-0">
                                     <input id="checkbox1" type="checkbox">
                                     <label class="text-muted" for="checkbox1">Ingat saya</label>
-                                </div><a class="link" href="forget-password.html">Lupa password?</a>
+                                </div><a class="link" href="/auth/lupa">Lupa password?</a>
                                 <div class="text-end mt-3">
                                     <button class="btn btn-primary btn-block w-100" type="submit">Masuk</button>
                                 </div>
